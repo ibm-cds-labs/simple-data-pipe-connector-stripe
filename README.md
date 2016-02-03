@@ -18,7 +18,7 @@ To load billing information from stripe.com:
 * Click __Connect to Stripe__.
 * If prompted to authenticate, log in using your Stripe credentials.
 * Grant the Simple Data Pipe read access to your data.
-* In the _Pick tables_ page, select __All tables__ to load data for all supported stripe object types or a single object (e.g. customer) type to only load a subset of data.
+* In the _Pick tables_ page, select __All tables__ to load data for all supported stripe object types or a single object type (e.g. customer) to only load a subset of data.
 * Schedule a pipe run or run the pipe immediately.
 
 #### License 
