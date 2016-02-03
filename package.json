@@ -1,0 +1,31 @@
+{
+  "name": "simple-data-pipe-connector-stripe",
+  "version": "0.1.0",
+  "description": "Stripe.com connector for Simple Data Pipe",
+  "main": "./lib",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-stripe"
+  },
+  "pipes-connector-name": "Stripe",
+  "keywords": [
+    "pipes",
+    "Cloudant",
+    "Data Movement"
+  ],
+  "dependencies": {
+    "async": "^1.5.0",
+    "bluemix-helper-config": "^0.1.10",
+    "lodash": "^3.10.1",
+    "node-schedule": "~0.2.9",
+    "querystring": "^0.2.0",
+    "request": "^2.69.0",
+    "simple-data-pipe-sdk": "git://github.com/ibm-cds-labs/simple-data-pipe-sdk.git",
+    "stripe": "^3.7.0",
+    "when": "~3.7.3"
+  },
+  "author": "david_taieb@us.ibm.com",
+  "license": "Apache-2.0",
+  "readmeFilename": "README.md"
+}
