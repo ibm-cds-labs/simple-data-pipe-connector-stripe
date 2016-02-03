@@ -6,6 +6,10 @@ This repository contains the Stripe.com Simple Data Pipe connector. The connecto
 
 ### Pre-requisites
 
+##### Deploy the Simple Data Pipe
+
+  [Deploy the Simple Data Pipe in Bluemix](https://github.com/ibm-cds-labs/simple-data-pipe) using the Deploy to Bluemix button or manually.
+
 ##### Install the Stripe.com connector
 
   Install the connector using [these instructions](https://github.com/ibm-cds-labs/simple-data-pipe/wiki/Installing-a-Simple-Data-Pipe-Connector) into the Simple Data Pipe.  
@@ -13,6 +17,7 @@ This repository contains the Stripe.com Simple Data Pipe connector. The connecto
 ### Using the Stripe.com Connector 
 
 To load billing information from stripe.com:
+
 * Select __Stripe__ for the _Type_ when creating a new pipe.  
 * In the _Connect_ page, enter the __OAuth consumer key__ and __consumer secret__ from the Stripe account settings page.
 * Click __Connect to Stripe__.
