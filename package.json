@@ -21,7 +21,7 @@
     "node-schedule": "~0.2.9",
     "querystring": "^0.2.0",
     "request": "^2.69.0",
-    "simple-data-pipe-sdk": "git://github.com/ibm-cds-labs/simple-data-pipe-sdk.git",
+    "simple-data-pipe-sdk": "^0.2.0",
     "stripe": "^3.7.0",
     "when": "~3.7.3"
   },
