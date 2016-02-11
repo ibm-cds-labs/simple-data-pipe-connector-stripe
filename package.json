@@ -8,9 +8,13 @@
     "type": "git",
     "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-stripe"
   },
-  "pipes-connector-name": "Stripe",
+  "simple_data_pipe": {
+                        "name": "Stripe",
+                        "service_dependencies": []
+  },
   "keywords": [
-    "pipes",
+    "Simple Data Pipe",
+    "Stripe",
     "Cloudant",
     "Data Movement"
   ],
@@ -25,7 +29,10 @@
     "stripe": "^3.7.0",
     "when": "~3.7.3"
   },
-  "author": "david_taieb@us.ibm.com",
+  "author": "ptitzler@us.ibm.com",
   "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-stripe/issues"
+  },
   "readmeFilename": "README.md"
 }
