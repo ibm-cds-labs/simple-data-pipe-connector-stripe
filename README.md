@@ -1,5 +1,7 @@
 # Simple Data Pipe Connector for Stripe.com
 
+:no_entry_sign: This project is no longer maintained
+
 ##### [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) connector for [Stripe.com](http://www.stripe.com)
 
 This connector uses [the stripe API](https://stripe.com/docs/api#intro) to fetch some or all objects and the [Simple Data Pipe SDK](https://github.com/ibm-cds-labs/simple-data-pipe-sdk) to store them in Cloudant. No data enrichment is performed.
@@ -44,3 +46,4 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
+  
